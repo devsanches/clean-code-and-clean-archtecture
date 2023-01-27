@@ -1,0 +1,4 @@
+yarn init -y
+yarn add typescript jest @types/jest ts-node ts-jest @types/express express
+npx tsc --init
+npx ts-jest config:init
