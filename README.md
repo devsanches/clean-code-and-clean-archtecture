@@ -3,6 +3,8 @@ Repositório para o curso de Clean Code e Clean Archtecture - @rodrigobranas
 
 # executar os testes
 ```
+yarn test
+ou
 npx jest
 ```
 
